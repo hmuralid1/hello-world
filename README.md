@@ -1,3 +1,5 @@
 # hello-world
-test description
-changes done for hello world from the readme-edit brach
+
+http://localhost:5000/greeting
+http://localhost:5000/greeting?name=Murali
+http://localhost:5000/greeting?name="Murali Hegde"
